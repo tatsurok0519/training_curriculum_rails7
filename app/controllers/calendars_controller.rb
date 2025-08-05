@@ -40,3 +40,6 @@ class CalendarsController < ApplicationController
 
   end
 end
+
+
+# 仮入力あとで消します
